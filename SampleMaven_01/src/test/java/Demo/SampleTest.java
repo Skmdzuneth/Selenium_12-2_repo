@@ -11,5 +11,7 @@ public class SampleTest {
 	public void launch() {
 		WebDriver driver=new ChromeDriver();
 		Reporter.log("SampleTest class executed",true);
+		Reporter.log("SampleTest class executed",true);
+
 	}
 }
