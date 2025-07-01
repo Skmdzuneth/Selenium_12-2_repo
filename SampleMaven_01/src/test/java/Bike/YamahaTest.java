@@ -12,6 +12,7 @@ public class YamahaTest {
 	public void launch() {
 		WebDriver driver=new ChromeDriver();
 		driver.get("https://global.yamaha-motor.com/");
+		driver.get("https://global.yamaha-motor.com/");
 		Reporter.log("Kawasaki launched",true);
 	}
 
